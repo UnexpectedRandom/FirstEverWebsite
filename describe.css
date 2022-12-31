@@ -1,0 +1,13 @@
+.Freg_image {
+    width: 200px;
+    height: 240px;
+    top: 100;
+    right: 50;
+    border-radius: 50%;
+}
+.Introduction{
+    font-family: Arial;
+    font-size: medium;
+    font-weight: lighter;
+}
+
